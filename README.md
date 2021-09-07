@@ -1,15 +1,14 @@
 Technologies i want to learn in 2021:
-- Elixier
-- Rust (not sure)
-- Golang (maybe)
-- PostreSQl
-- Microsoft Azure (maybe)
-- MySQL
 - TypeScript
-- GraphQL
+- less
+Stuff i wanna look up:
+- MVVM
+- MVC
+- Microservices
+- Event-Driven
 
 Currently learning:
-- TypeScript
+- less
 
 <!---
 Colliname/Colliname is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
