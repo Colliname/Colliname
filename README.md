@@ -1,7 +1,6 @@
 Technologies i want to learn in 2021:
 - TypeScript
 - less
-Stuff i wanna look up:
 - MVVM
 - MVC
 - Microservices
